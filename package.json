@@ -1,0 +1,27 @@
+{
+  "name": "gulp-pandoc-filter",
+  "version": "0.0.1",
+  "description": "pandoc-filter in gulp",
+  "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/nak2k/node-gulp-pandoc-filter/issues"
+  },
+  "dependencies": {
+    "map-stream": "0.0.6",
+    "pandoc-filter": "^0.1.2"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/nak2k/node-gulp-pandoc-filter",
+  "keywords": [],
+  "license": "MIT",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nak2k/node-gulp-pandoc-filter.git"
+  },
+  "scripts": {},
+  "files": [
+    "README.md",
+    "index.js"
+  ]
+}
